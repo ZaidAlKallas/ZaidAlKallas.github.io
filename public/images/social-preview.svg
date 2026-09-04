@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0a0a0f"/>
+  <rect x="0" y="0" width="1200" height="630" fill="url(#g)"/>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="30%" stop-color="#5b21b6" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#0a0a0f" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <text x="680" y="300" font-family="'Segoe UI', Arial, sans-serif" font-size="72" font-weight="700" fill="#f0f0f0">Zaid Al Kallas</text>
+  <text x="682" y="380" font-family="'Segoe UI', Arial, sans-serif" font-size="40" font-weight="400" fill="#8b5cf6">Full-Stack .NET Developer</text>
+  <text x="682" y="460" font-family="'Segoe UI', Arial, sans-serif" font-size="26" font-weight="400" fill="#8888a0">C# · ASP.NET Core · PostgreSQL · Docker</text>
+</svg>
